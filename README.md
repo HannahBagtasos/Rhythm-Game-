@@ -8,4 +8,6 @@ User is first greeted into the loading screen "PRESS ANY KEY TO START"
 Song and game then iniates, arrows are then spawned according to the snare of the song
 ![image](https://user-images.githubusercontent.com/108615362/215352272-a94bbc46-3791-4224-b2d3-c31cf476bf72.png)
 
-
+References:
+https://github.com/samuellapointe/ProcessingCubes
+https://www.youtube.com/watch?v=QiAOe1ExGD0
